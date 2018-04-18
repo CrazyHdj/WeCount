@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  V0.2.cpp
+d:\game\github\wc v0.2\v0.2\v0.2\v0.2\v0.2.cpp(21): warning C4018: “<”: 有符号/无符号不匹配
+d:\game\github\wc v0.2\v0.2\v0.2\v0.2\v0.2.cpp(37): warning C4018: “<”: 有符号/无符号不匹配
+  V0.2.vcxproj -> D:\Game\Github\WC V0.2\V0.2\V0.2\Debug\V0.2.exe
